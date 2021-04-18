@@ -26,4 +26,24 @@
     color: white;
     height: 100%;
 }
+.portfolio{
+    margin: 5%;
+  }
+  
+  .col-md-3 img {
+    width: 260px;
+    height: 210px;
+    padding: 5%;
+  }
+
+  
+  
+
+  h2{
+      text-align: center;
+      margin: 30%;
+      border: 0px;
+      text-align: center;
+      font-weight: 900;
+  }
 
