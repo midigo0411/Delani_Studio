@@ -47,3 +47,12 @@
       font-weight: 900;
   }
 
+  .contact-us{
+    background-image: url(/assets/backgrounds/c_image.jpg);
+    background-size: 100%,100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-position: center;
+    color: white;
+  } 
+
