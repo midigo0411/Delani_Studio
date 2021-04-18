@@ -20,3 +20,10 @@
     text-align: center;
 }
 
+.container-1{
+    background: url(/assets/backgrounds/s_image.jpg);
+    text-align: center;
+    color: white;
+    height: 100%;
+}
+
