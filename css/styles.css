@@ -6,7 +6,6 @@
     background-repeat: no-repeat;
     text-align: center;
     color: white;
-    height: 40vw;
     width: 100vw;
 }
 
@@ -53,6 +52,76 @@
     background-repeat: no-repeat;
     text-align: center;
     background-position: center;
-    color: white;
+    
   } 
 
+  .contact-us image{
+    height: 100%;
+    width: 100%;
+   }
+   #contact-header{
+     padding: 2%;
+   }
+   ::placeholder{
+     color: white;
+   }
+   input[type="text"]{
+     background: rgba(0, 0, 0, 0);
+       margin-right: 100%;
+       width: 100%;
+       box-sizing: border-box;
+   }
+   input[type="email"]{
+     background: rgba(0, 0, 0, 0);
+       margin-left: 100%;
+       width: 100%;
+       box-sizing: border-box
+   }
+   #name1{
+     display: inline-block;
+   }
+   #email1{
+     display: inline-block;
+   }
+   .paragraphs{
+     text-align: center;
+     display: none;
+   }
+
+   #logo{
+    margin-left: 1%;
+    margin-top: 10%;
+    margin-bottom: 5%;
+  }
+  #click{
+    margin-left: 0%;
+    margin-top: 10%;
+    margin-bottom: 5%;
+  }
+
+.hidden{
+      display: none;
+  }
+
+  #links{
+    position: center;
+    margin-left: 30%;
+    margin-right: 5%;
+  }
+  .footer{
+    margin-left: 40%;
+  }
+  .design-hidden {
+    display: none;
+  }
+  .development-hidden {
+    display: none;
+  }
+  .product-hidden {
+    display: none;
+
+  }
+
+ h1{
+     text-align: center;
+ }
