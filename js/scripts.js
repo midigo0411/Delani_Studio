@@ -4,6 +4,11 @@ $(document).ready(function(){
     $('.drop2').hide();
     $('.drop3').hide();
 
+    $("#projectimage").click(function(){
+        $(this).slideUp();
+        $(".drop1").show(500);
+});
+
 });
     
 
