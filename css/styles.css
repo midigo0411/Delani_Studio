@@ -14,7 +14,7 @@
   text-align: center;
 }
 .service{
-  background-image: url("/assets/backgrounds/s_image.jpg");
+  background-image: url(/assets/backgrounds/s_image.jpg);
   height: 350px;
   text-align: center;
   color: white;
@@ -22,19 +22,17 @@
   
 }
 .contact{
-  background-image: url("/assets/backgrounds/c_image.jpg");
+  background-image: url(/assets/backgrounds/c_image.jpg);
   height: 550px;
   text-align: center;
   color: white;
-
-
   font-size: 14px;
 
 }
 .delani{
   text-align: center;
 }
-.handles{
+.social{
   display: flex;
   justify-content:center;
   
