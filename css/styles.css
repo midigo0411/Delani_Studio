@@ -1,5 +1,5 @@
 .top-image {
-  background: url(backgrounds/h_img.jpg);
+  background-image: url(backgrounds/h_img.jpg);
   text-align: center;
   color: white;
   background-repeat: no-repeat;
@@ -14,7 +14,7 @@
   text-align: center;
 }
 .service{
-  background: url(backgrounds/s_image.jpg);
+  background-image: url(backgrounds/s_image.jpg);
   height: 350px;
   text-align: center;
   color: white;
@@ -22,7 +22,7 @@
   
 }
 .contact{
-  background: url(backgrounds/c_image.jpg);
+  background-image: url(backgrounds/c_image.jpg);
   height: 550px;
   text-align: center;
   color: white;
@@ -40,9 +40,10 @@
 .work{
   text-align: center;
 }
-.portfo{
+#portfo{
   box-sizing: border-box;
   border-style:none;
+
 }
 .width-100{
       padding-bottom:50px;
